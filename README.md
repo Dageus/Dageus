@@ -2,13 +2,13 @@
 
 ## About Me
 
-I'm a Computer Science and Engineering student at IST (Instituto Superior Técnico), in Lisbon, Portugal.
+- Computer Science and Engineering student at IST (Instituto Superior Técnico), in Lisbon, Portugal.
 
-I have a passion for Cybersecurity, trying to participate in as many CTF's as I can, and learning as much as possible about the subject.
+- Passion for Cybersecurity, trying to participate in as many CTF's as possible, and learning as much as possible about the subject.
 
-I also play piano for about 8 years, and have a passion for music in general.
+- Playing piano for the last 8 years, with a passion for music in general.
 
-Arch Linux user. (config files will be available soon...)
+Running Arch Linux. (config files will be available soon...)
 
 ## Skills
 
