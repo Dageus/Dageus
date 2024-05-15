@@ -19,7 +19,6 @@ Running Arch Linux. (config files will be available soon...)
 - CSS
 - JavaScript
 - SQL (MySQL, PostegreSQL)
-- Git
 - Linux
 
 ## College Projects
