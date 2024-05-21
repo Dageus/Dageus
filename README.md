@@ -4,7 +4,7 @@
 
 - Computer Science and Engineering student at IST (Instituto Superior Técnico), in Lisbon, Portugal.
 
-- Passion for Cybersecurity, trying to participate in as many CTF's as possible, and learning as much as possible about the subject.
+- Passion for Cybersecurity, trying to participate in as many CTF's as I can, and learning as much as possible about the subject.
 
 - Playing piano for the last 8 years, with a passion for music in general.
 
