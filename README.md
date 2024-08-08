@@ -6,7 +6,7 @@
 
 - Passion for Cybersecurity, trying to participate in as many CTF's as I can, and learning as much as possible about the subject.
 
-- Passion for SysAdmin and DevOps, currently running a Home Server running Samba, Wireguard and Pi-hole, each in its own Docker Container. Trying to learn Kubernetes via Minikube.
+- Passion for SysAdmin and DevOps. Currently running a Home Server with Samba, Wireguard and Pi-hole, each in its own Docker container. Trying to learn Kubernetes via Minikube.
 
 - Playing piano for the last 8 years, with a passion for music in general.
 
@@ -14,14 +14,14 @@ Running Arch Linux. (config files will be available soon...)
 
 ## Skills
 
-- Python
-- C/C++
-- Java
-- HTML
-- CSS
-- JavaScript
+- Python (pandas, BeaufitulSoup, Selenium, Django, Flask)
+- C/C++ 
+- Java (SpringBoot, gRPC)
+- JavaScript (React, NextJS, VueJS, NodeJS)
+- HTML 
+- CSS (TailwindCSS)
 - SQL (MySQL, PostegreSQL)
-- Linux
+- Bash
 
 ## College Projects
 
