@@ -6,6 +6,8 @@
 
 - Passion for Cybersecurity, trying to participate in as many CTF's as I can, and learning as much as possible about the subject.
 
+- Passion for SysAdmin and DevOps, currently running a Home Server running Samba, Wireguard and Pi-hole, each in its own Docker Container. Trying to learn Kubernetes via Minikube.
+
 - Playing piano for the last 8 years, with a passion for music in general.
 
 Running Arch Linux. (config files will be available soon...)
