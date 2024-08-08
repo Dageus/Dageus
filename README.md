@@ -10,7 +10,7 @@
 
 - Playing piano for the last 8 years, with a passion for music in general.
 
-Running Arch Linux. (config files will be available soon...)
+Running Arch Linux. [dotfiles](https://github.com/Dageus/dotfiles)
 
 ## Skills
 
