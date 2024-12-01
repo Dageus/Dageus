@@ -4,9 +4,9 @@
 
 - Computer Science and Engineering student at IST (Instituto Superior Técnico), in Lisbon, Portugal.
 
-- Passion for Cybersecurity, trying to participate in as many CTF's as I can, and learning as much as possible about the subject.
+- Passion for Cybersecurity, majoring in the subject in my MSc.
 
-- Passion for SysAdmin and DevOps. Currently running a Home Server with Samba, Wireguard and Pi-hole, each in its own Docker container. Trying to learn Kubernetes via Minikube.
+- Passion for SysAdmin and DevOps. Currently running a tiny Kubernetes cluster with my friends so we can learn more about the subject.
 
 - Playing piano for the last 8 years, with a passion for music in general.
 
