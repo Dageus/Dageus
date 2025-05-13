@@ -14,13 +14,14 @@ Running Arch Linux. [dotfiles](https://github.com/Dageus/dotfiles)
 
 ## Skills
 
-- Python (pandas, BeaufitulSoup, Selenium, Django, Flask)
+- Python (pandas, BeaufitulSoup, Selenium, Django, Flask, FastAPI, Scrapy)
+- Go (Cobra, BubbleTea, Gin)
 - C/C++ 
-- Java (SpringBoot, gRPC)
-- JavaScript (React, NextJS, VueJS, NodeJS)
+- Java (SpringBoot)
+- JavaScript (React, NextJS, NodeJS)
 - HTML 
 - CSS (TailwindCSS)
-- SQL (MySQL, PostegreSQL)
+- SQL (MySQL, PostegreSQL, MongoDB)
 - Bash
 
 ## College Projects
