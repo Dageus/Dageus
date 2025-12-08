@@ -4,21 +4,25 @@
 
 - Computer Science and Engineering student at IST (Instituto Superior Técnico), in Lisbon, Portugal.
 
-- Passion for Cybersecurity, majoring in the subject in my MSc.
+- Passion for SysAdmin and DevOps. Currently running a [Proxmox homelab](https://github.com/Dageus/homelab) running about 15 containerized applications fully deployed using IaC.
 
-- Passion for SysAdmin and DevOps. Currently running a tiny Kubernetes cluster with my friends so we can learn more about the subject.
+- Making an MAL CLI using Go to manage my Anime (repo public soon)
+
+- Making an [ultimatespecs](https://ultimatespecs.com) scraper + API using Python (FastAPI + BeautifulSoup + Scrapy)
 
 - Playing piano for the last 8 years, with a passion for music in general.
 
 Running Arch Linux. [dotfiles](https://github.com/Dageus/dotfiles)
 
+Getting into NixOS to fulfill my OSaC dream.
+
 ## Skills
 
+- Rust (Axum)
 - Python (pandas, BeaufitulSoup, Selenium, Django, Flask, FastAPI, Scrapy)
 - Go (Cobra, BubbleTea, Gin)
 - C/C++ 
 - Java (SpringBoot)
-- JavaScript (React, NextJS, NodeJS)
 - HTML 
 - CSS (TailwindCSS)
 - SQL (MySQL, PostegreSQL, MongoDB)
