@@ -30,7 +30,7 @@ Getting into NixOS to fulfill my OSaC dream.
 
 ## Thesis
 
-My MsC's Thesis is the **DRIFT** (Decentralized Reputation Infrastructure for Trust), a novel token-based reputation system designed for decentralized cloud computing platforms governed by Decentralized Autonomous Organizations (DAOs), where its dual-purpose token merges governance power with economic rewards. The system integrates attestation protocols and a stake-weighted reputation model that dynamically reflects verified contributions of computing resources.
+My MsC's Thesis is **DRIFT** (Decentralized Reputation Infrastructure for Trust), a novel token-based reputation system designed for decentralized cloud computing platforms governed by Decentralized Autonomous Organizations (DAOs), where its dual-purpose token merges governance power with economic rewards. The system integrates attestation protocols and a stake-weighted reputation model that dynamically reflects verified contributions of computing resources.
 
 The code and algorithm will be open-sourced and it will have a PoC in my GitHub when the dissertation gets released.
 
