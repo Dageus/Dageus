@@ -67,3 +67,4 @@ The code and algorithm will be open-sourced and it will have a PoC in my GitHub 
 - [Software Security](https://github.com/Dageus/js_static_analyzer)
 - [Information Security in Networks and Systems](https://github.com/Crashim03/notist)
 - [Information Visualization](https://github.com/Dageus/f1_visualization)
+- [Social Robotics and Human Interaction](https://github.com/Dageus/engagement-evaluator)
