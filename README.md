@@ -8,7 +8,7 @@
 
 - Making an MAL CLI using Go to manage my Anime (repo public soon)
 
-- Making an [ultimatespecs](https://ultimatespecs.com) scraper + API using Python (FastAPI + BeautifulSoup + Scrapy)
+- Making an unified car specs scraper + API using Python (FastAPI + BeautifulSoup + Scrapy)
 
 - Playing piano for the last 8 years, with a passion for music in general.
 
