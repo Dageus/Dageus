@@ -12,9 +12,7 @@
 
 - Playing piano for the last 8 years, with a passion for music in general.
 
-Running Arch Linux. [dotfiles](https://github.com/Dageus/dotfiles)
-
-Getting into NixOS to fulfill my OSaC dream.
+Running NixOS: [config](https://github.com/Dageus/nix-config)
 
 ---
 
