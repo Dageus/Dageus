@@ -2,15 +2,15 @@
 
 ## About Me
 
-- Computer Science and Engineering student at IST (Instituto Superior Técnico), in Lisbon, Portugal.
+- MsC in Computer Science and Engineering @ IST, Lisbon, Portugal.
 
-- Passion for SysAdmin and DevOps. Currently running a [Proxmox homelab](https://github.com/Dageus/homelab) running about 15 containerized applications fully deployed using IaC.
+- Researcher @ INESC-ID.
 
-- Making an MAL CLI using Go to manage my Anime (repo public soon)
+- Passion for SysAdmin and DevOps. Running a Proxmox [homelab](https://github.com/Dageus/homelab) using [IaC](https://github.com/Dageus/proxmox_automation).
 
-- Making an unified car specs scraper + API using Python (FastAPI + BeautifulSoup + Scrapy)
+- Developing a MAL CLI using Go to manage my Anime (repo public soon)
 
-- Playing piano for the last 8 years, with a passion for music in general.
+- Developing a unified car specs scraper + API using Python (FastAPI + BeautifulSoup + Scrapy)
 
 Running NixOS: [config](https://github.com/Dageus/nix-config)
 
@@ -28,22 +28,7 @@ Running NixOS: [config](https://github.com/Dageus/nix-config)
 
 **DevOps & Infrastructure**
 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-## Thesis + Research
-
-My MsC's Thesis is **DRIFT** (Decentralized Reputation Infrastructure for Trust), a novel token-based reputation system designed for decentralized cloud computing platforms governed by Decentralized Autonomous Organizations (DAOs), where its dual-purpose token merges governance power with economic rewards. The system integrates attestation protocols and a stake-weighted reputation model that dynamically reflects verified contributions of computing resources.
-
-
-Current investigation is focused on how system such as [Truebit](https://truebit.io/), [Golem](https://golem.network/), [iExec](https://www.iex.ec/) and [Akash](https://akash.network/) verify work. Seeing as current decentralized computing networks use TEE (Trusted Execution Environments) as attestation protocols and as a source of truth, DRIFT aims to enter a "Post-TEE" market where, after discoveries such as [TEE.fail](https://tee.fail/) and [CacheWarp](https://cachewarpattack.com/), TEEs cannot be considered invulnerable. Thus, DRIFT will use Optimistic Verifications using a Game Theory-focused approach, attempting to have nodes pass a "Bait Attack" where computation results are known _a priori_ and if the node fails the attack, its reputation will be slashed. 
-
-
-To mitigate Sybil attacks, DRIFT will use Hardware-based Identity through PUF (Physical Unclonable Functions). Exit scams will be mitigated via a "Reliability is Blind" approach, where both parties in an exchange will be punished if the task result is disputed and cannot be cryptographically resolved.
-
-
-The code and algorithm will be open-sourced and it will have a PoC in my GitHub when the dissertation gets released.
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%2302a8ef.svg?style=for-the-badge&logo=packer&logoColor=white)
 
 ---
 
