@@ -2,11 +2,13 @@
 
 ## About Me
 
-- MsC in Computer Science and Engineering @ IST, Lisbon, Portugal.
+- MsC in Computer Science and Engineering @ IST, Lisbon, Portugal
 
-- Researcher @ INESC-ID.
+- Author of [DRIFT](https://github.com/Dageus/DRIFT), my thesis research subject
 
-- Passion for SysAdmin and DevOps. Running a Proxmox [homelab](https://github.com/Dageus/homelab) using [IaC](https://github.com/Dageus/proxmox_automation).
+- Researcher @ INESC-ID
+
+- Passion for SysAdmin and DevOps. Running a Proxmox [homelab](https://github.com/Dageus/homelab) using [IaC](https://github.com/Dageus/proxmox_automation)
 
 - Developing a MAL CLI using Go to manage my Anime (repo public soon)
 
