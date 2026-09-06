@@ -13,9 +13,10 @@
 
 ### Beyond the Terminal
 
-When I'm not writing Go, tweaking Nix configs[cite: 2], or debugging distributed consensus:
 - Playing the **piano** for the last 9 years and counting.
-- Tracking anything related to **cars**, automotive engineering, and racing.
+
+- Tracking anything related to cars, music and movies.
+
 - Managing my self-hosted services and discovering new tools for my future data-hoarding obsession (once hardware prices allow it).
 
 ---
@@ -33,4 +34,4 @@ When I'm not writing Go, tweaking Nix configs[cite: 2], or debugging distributed
 
 ---
 
-**Check out my pinned repositories below for active codebases, architecture breakdowns, and homelab setups.**
+**Check out my pinned repositories below for active codebases and homelab setups.**
